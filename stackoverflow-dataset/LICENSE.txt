@@ -1,0 +1,11 @@
+This dataset is governed by cc-by-sa 4.0 https://creativecommons.org/licenses/by-sa/4.0/
+
+You can read more about the StackOverflow data dump at https://creativecommons.org/licenses/by-sa/4.0/
+
+The original dataset has been transformed to CSV and some columns were removed in the process, but the new CSVs are provided also under cc-by-sa 4.0
+
+We thank StackOverflow for opening their dataset
+
+Info about the processing we did to the files can be found at https://github.com/javier/questdb-stackoverflow
+
+ 
